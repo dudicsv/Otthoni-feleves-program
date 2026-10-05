@@ -1,8 +1,29 @@
 .infok {
     font-weight: bold;
-    background-color: rgb(64, 97, 168);
-    color: white;
+    background-color: rgba(4, 28, 248, 0.836);
+    color: rgb(255, 255, 255);
     font-style: italic;
      text-align: left;
-     font-size: 18px;
+     font-size: 22px;
+}
+.felsorolas {
+    font-weight:bold;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+    text-align: center;
+}
+thead {
+    border: 3px solid black;
+}
+tbody,td {
+    Background-color: black;
+    color: white;
+    border-color: rgba(248, 212, 4, 0.664);
+    border-width: 3px;
 }
