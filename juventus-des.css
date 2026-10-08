@@ -8,7 +8,7 @@
 }
 .felsorolas {
     font-weight:bold;
-    text-align: left;
+    text-align: justify;
 }
 
 table {
@@ -28,4 +28,10 @@ tbody,td {
     color: white;
     border-color: rgba(248, 212, 4, 0.664);
     border-width: 3px;
+}
+tbody, th{
+    Background-color:black;
+    color: white;
+    border: 3px solid rgba(248, 212, 4, 0.664);
+
 }
