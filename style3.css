@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+thead {
+    border: 3px solid black;
+}
+tbody,td {
+    Background-color: black;
+    color: white;
+    border-color: rgba(248, 212, 4, 0.664);
+    border-width: 3px;
+}
+tbody, th{
+    Background-color:black;
+    color: white;
+    border: 3px solid rgba(248, 212, 4, 0.664);
+
+}
+body {
+    background-image: url("https://www.soccerbible.com/media/181217/j9-1.jpg");
+}
