@@ -14,8 +14,24 @@
 
 
 .margo {
-    margin: 20px;
+    margin: 22px;
     font-weight: bold;
+    color: white;
 }
 
+body {
+    background-image: url("https://getwallpapers.com/wallpaper/full/d/c/1/1346104-juventus-wallpaper-hd-1920x1080-for-phone.jpg");
+}
+a {
+    color: gold;
+    background-color: black;
+    padding: 5px;
+    
+}
 
+h2 {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin:32px
+}
