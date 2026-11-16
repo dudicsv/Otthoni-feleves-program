@@ -2,22 +2,22 @@ table {
     border-collapse: collapse;
 }
 td, th{
-    border: 1px solid black;
+    border: 1px solid rgba(0, 0, 0, 0.5);
     text-align: center;
     font-size: 32px;
     font-weight: bold;
 }
 thead {
-    border: 3px solid black;
+    border: 3px solid rgba(0, 0, 0, 0.5);
 }
 tbody,td {
-    Background-color: black;
+    Background-color: rgba(0, 0, 0, 0.5);
     color: white;
     border-color: rgba(248, 212, 4, 0.664);
     border-width: 3px;
 }
 tbody, th{
-    Background-color:black;
+    Background-color:rgba(0, 0, 0, 0.5);
     color: white;
     border: 3px solid rgba(248, 212, 4, 0.664);
 
